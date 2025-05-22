@@ -98,16 +98,6 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
   </li>
 </ul>
 
-<h2>Author's Links</h2>
-
-<ul>
-  <li>Linkedin - <a href="https://www.linkedin.com/in/michael-landon-t0209/" target="_blank">@mlsolver</a></li>
-</ul>
-
-<br />
-
-<hr />
-
 <br />
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
